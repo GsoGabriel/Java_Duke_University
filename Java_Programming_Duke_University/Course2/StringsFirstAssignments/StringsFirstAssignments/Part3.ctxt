@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Part3\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=stringa\ stringb
+comment1.target=boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
+comment2.params=stringa\ stringb
+comment2.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+comment3.params=p3\ a\ b
+comment3.target=void\ getPrint(Part3,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testing()
+numComments=5
