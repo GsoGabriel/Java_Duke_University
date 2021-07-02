@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumRatingsFilter
+comment1.params=ratings
+comment1.target=NumRatingsFilter(int)
+comment2.params=movieID
+comment2.target=int\ ratingsParticularMovie(java.lang.String)
+comment3.params=id
+comment3.target=boolean\ satisfies(java.lang.String)
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BatchInversions
+comment0.text=\r\n\ Then\ create\ a\ new\ BlueJ\ class\ called\ BatchInversions.\ In\ this\ class\ create\ a\ method\ named\ makeInversion\ that\ has\ one\r\n\ parameter,\ an\ image,\ and\ returns\ a\ new\ image\ that\ is\ the\ inverse\ of\ the\ original\ image.\r\n
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ selectAndConvert()
+numComments=3
